@@ -1,0 +1,3 @@
+/home/zciszrry/RSAchat/CMakeFiles/main.dir
+/home/zciszrry/RSAchat/CMakeFiles/edit_cache.dir
+/home/zciszrry/RSAchat/CMakeFiles/rebuild_cache.dir
